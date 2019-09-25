@@ -1,4 +1,4 @@
-<h1>Computergraphic Projects</h1>
+<h1>computer graphics projects</h1>
 
 <ol>
 <li>Raytracer</li>
